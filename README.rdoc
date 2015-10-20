@@ -1,28 +1,5 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app provides a minimal rails setup with  theme called Inspina[http://webapplayers.com/inspinia_admin-v2.3/]. The theme is based on Bootstrap and provides a lot of additional, easy to use components and styles. The theme should make it easy to put together some UI functionality without spending too much time on it.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+To get started, just bundle and rails s.
